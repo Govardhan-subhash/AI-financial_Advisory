@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Advisory Result</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-panel">
+            <h2>Risk Prediction Result</h2>
+            <p><strong>Age:</strong> {{ age }}</p>
+            <p><strong>Salary:</strong> ₹{{ salary }}</p>
+            <p><strong>Expenses:</strong> ₹{{ expenses }}</p>
+            <p><strong>Suggested  Risk Category:</strong> <span class="risk">{{ risk }}</span></p>
+            <form action="/advise" method="POST">
+                <label for="risk">Confirm your Risk Preference:</label>
+                <select id="risk" name="risk" required>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+                <button type="submit">Get Financial Advice</button>
+            </form>
+    
+            <a href="/input">Go Back</a>
+        </div>
+
+        <div class="right-panel">
+            <h2>📊 Financial Insights</h2>
+
+            <h3>🌍 Current Inflation Rates</h3>
+            <ul>
+                <li><strong>🇦🇹 Austria:</strong> {{ inflation['Austria'] }}%</li>
+                <li><strong>🇩🇪 Germany:</strong> {{ inflation['Germany'] }}%</li>
+                <li><strong>🇲🇽 Mexico:</strong> {{ inflation['Belgium'] }}%</li>
+            </ul>
+        
+            <h3>💰 Investment Recommendations (Adjusted for Inflation)</h3>
+            <h4> For Austria</h4>
+            <ul>
+                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['SIP'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Fixed Deposit (FD)'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Gold Investment'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+            </ul>
+            <h4> For Germany</h4>
+            <ul>
+                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['SIP'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Fixed Deposit (FD)'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Gold Investment'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+            </ul>
+            <h4> For Belgium</h4>
+            <ul>
+                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['SIP'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Fixed Deposit (FD)'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Gold Investment'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

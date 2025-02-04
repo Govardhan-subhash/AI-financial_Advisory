@@ -1,0 +1,1001 @@
+Age,Salary,Expenses,RiskCategory,EmergencyFund,EquityAllocation,FixedIncomeAllocation,GoldAllocation,AdditionalNotes,DirectEquityAllocation,MutualFundAllocation,FDAllocation,RDAllocation,PPFAllocation,NSCAllocation
+67,59938,37546,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+46,134277,109884,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+64,114741,79580,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,80742,64795,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+31,159797,110840,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+47,113819,79739,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+22,40058,21109,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,70426,51381,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,114893,88909,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+25,155660,119775,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+35,159383,107776,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+27,68535,54816,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,36446,27121,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+46,29419,21695,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,82334,65346,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,104932,54484,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+34,68118,39312,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+66,132453,73793,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+33,61887,41342,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+26,41260,20887,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,124034,89900,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+69,117670,104870,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+25,37426,28080,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+53,119261,95203,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+27,107070,72994,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,119697,106335,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,81666,67217,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+33,35683,25203,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+66,128154,113591,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+22,55545,43734,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+57,144238,121587,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,49213,26488,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+26,98250,69015,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+52,31702,21953,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,53058,41084,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+60,92922,60499,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,98099,63483,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+51,67364,54662,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+20,148420,113105,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,68158,49961,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+39,101501,89739,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+62,105814,59034,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+56,141869,102455,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+43,148579,99844,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+42,79637,64969,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+47,30532,15325,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+47,108051,87601,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+68,51653,34440,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,53580,27878,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,91535,78608,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+47,89443,56675,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+46,49937,39840,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+29,105687,85142,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+35,108846,73714,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+39,146141,123377,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+64,158778,116629,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+25,84130,66118,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+38,73696,55941,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+50,31085,26158,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+38,120453,68580,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+65,109493,98173,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+66,78578,61328,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,138678,123587,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,157640,137346,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+65,70167,43406,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+31,122272,63271,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+29,27247,22457,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+42,51348,33063,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+59,76437,49582,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+57,96660,84824,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+20,106057,83418,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+38,120310,61853,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,64905,33009,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+59,128026,84684,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+20,98340,55404,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+47,42295,26263,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+32,119788,80692,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+41,87662,65597,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+59,129389,115553,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,69452,35997,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+34,26249,16957,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+50,25160,20396,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+69,69478,60326,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+44,144998,89091,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+23,150995,101486,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+24,57397,50545,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,127272,72734,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+36,52774,42597,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,141527,120620,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+24,143975,91189,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+42,105718,72813,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+67,112958,73096,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+62,154857,121072,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+44,76448,62271,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+37,87129,50833,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+22,98597,64285,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+41,67875,59887,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+47,109707,67849,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+28,146501,99115,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+62,43041,26618,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+20,111659,96118,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+23,144727,90497,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+32,34676,29932,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+43,33414,19976,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+49,135453,70431,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+58,53949,31451,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,60129,46772,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+33,105305,73999,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+51,90746,70774,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,144374,112860,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,46890,26859,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+24,47542,31709,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,131058,110754,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+31,111685,92586,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+22,60459,48353,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+25,54872,28535,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+67,94222,59122,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+27,90056,78329,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,118486,70428,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+26,39277,21346,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+27,135889,107516,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,118959,78572,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+22,45904,27905,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,87292,77428,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,41293,21056,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+64,121348,72139,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,31998,21080,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+26,142831,116445,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+51,55484,43279,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,113820,58637,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+36,125774,92422,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,74677,45262,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+34,37237,25646,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+33,156132,89117,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+38,32711,21044,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+45,60167,51714,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,29922,18127,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,152677,89479,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+66,86817,75914,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+64,56401,44871,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+59,46253,29123,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+23,123529,109432,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+47,44561,22832,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,141047,116416,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+67,155386,110142,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+46,49709,29236,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,70583,54287,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+32,118020,95829,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,41144,22083,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+41,134243,103186,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+48,55947,37316,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+57,152503,85957,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+22,70611,43778,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+21,98030,53432,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,138449,85205,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,91615,58830,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+34,93734,63627,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,108118,66075,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+58,37808,19731,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+59,83258,49605,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+22,113904,95127,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+23,36155,20629,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+39,113362,86254,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+32,66381,35420,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+43,52034,27436,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+68,55430,44682,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+37,132913,86104,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+33,112194,65547,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+29,89078,50379,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,141644,114140,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,85838,75461,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+54,84528,64791,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,29972,26072,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+39,71497,55228,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+70,128512,84874,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+64,35742,19955,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,93602,79650,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,70030,52705,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+26,65214,40113,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+38,147525,102250,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+28,54583,29834,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+26,110470,66947,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+35,132761,102089,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+68,81156,67003,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+56,102747,77679,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+58,40730,22090,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+48,144052,96805,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+21,46064,34839,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+25,158669,117923,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+27,78734,61929,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,54457,38557,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+55,120701,97481,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+60,113920,78616,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+22,132440,69369,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,121031,95924,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+21,155212,96369,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+60,29284,19743,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+59,75812,47747,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+38,42654,23585,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+51,135798,112526,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+64,108930,73849,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+69,52365,31262,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+44,149450,94863,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+36,144545,88812,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+42,64537,49531,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+21,119982,81251,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+56,53184,30529,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+29,134202,106472,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,29583,20562,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+40,36510,32063,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+22,137480,84196,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+61,44497,31219,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+61,140401,113844,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+54,156110,133406,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+60,32163,21754,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+45,111534,86173,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,76114,67048,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+28,150332,75290,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+31,36003,26272,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+25,96933,74947,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+48,123318,109748,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+35,50519,43029,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+69,69414,42208,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+38,113915,60632,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+54,146538,83484,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+51,56580,37095,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,126426,104419,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,88160,49921,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+55,78092,60277,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+53,134500,87992,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+49,127345,65108,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,79436,54015,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,103739,80981,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+31,114089,58420,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+58,48962,36816,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+59,134267,71471,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+30,66929,49886,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+28,42727,38378,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+21,99215,79716,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,43829,30548,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+42,89022,64503,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+69,131833,112111,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,94786,60191,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+35,25363,15568,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+64,40708,26242,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+33,59646,36976,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+32,96468,85669,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+64,46924,38749,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+55,139458,78416,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+41,50168,33973,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+69,63809,50297,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+69,94235,84547,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+44,43057,32040,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,52008,35204,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+70,112717,65380,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+34,69843,41334,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+64,48250,33480,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+25,43563,21841,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+24,151712,127812,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,90061,49420,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+52,128681,83019,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+60,83655,51072,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+56,147048,103204,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+23,37108,24854,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+35,59690,46707,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+57,100547,83571,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+63,78131,54742,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,153479,84159,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,59124,36347,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+25,65514,42626,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+43,149406,85167,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+45,60932,39589,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+31,28688,20955,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+31,103102,91939,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+23,87977,64005,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+60,74178,39471,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+38,83671,62516,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+26,145545,118797,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+22,53649,41383,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,141558,87040,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+47,35246,22577,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+33,155627,98938,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+51,73364,57392,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+54,67571,54933,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+54,83648,60864,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,43134,27484,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+58,121464,72676,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+20,84512,59887,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+40,33941,23847,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+34,84060,56331,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+27,85729,58788,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+24,101116,85640,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,157423,133154,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,42460,31872,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,30134,18240,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,128735,113126,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+27,139647,108542,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,151513,99728,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+24,60199,45375,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+70,84757,72811,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+44,77906,40020,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+52,131581,114040,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,47409,25462,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+31,97555,49292,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+47,40431,29554,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+58,78213,61712,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,137732,90270,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,56342,45279,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+43,63529,38902,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+42,145546,122750,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+24,70648,48294,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,74077,47229,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+66,51873,33014,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+23,148425,130913,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,149479,81166,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+46,39090,32360,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+53,92155,50467,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+31,72652,62494,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+30,86214,70830,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+28,66659,45749,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+30,77669,52100,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+60,96237,80442,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+33,57606,30047,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+48,73617,46323,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+49,52421,36853,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+39,87103,64993,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+59,136069,107587,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,157896,115960,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+23,68862,50426,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+37,61612,51831,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+24,105623,71389,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+23,134259,111120,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+65,70883,47774,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,61247,40021,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+62,60882,51256,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,73354,59616,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+38,51175,30779,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+50,84810,59906,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,114584,70745,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+27,96030,59614,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+59,71791,50116,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+61,25533,19341,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+57,99744,77511,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+27,133589,95450,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+39,55305,43172,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+47,59873,48597,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+23,68142,58709,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,142747,77707,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+68,112076,82450,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,155310,134038,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+67,89498,76939,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,127938,90286,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+28,142343,112862,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+41,71886,64605,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+67,132508,81053,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+38,126932,91843,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+39,90381,58789,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+43,157596,79188,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+46,109758,95263,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+32,150484,100920,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+51,117966,92230,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+66,131850,92712,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+65,108050,66734,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+64,54229,27239,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+43,81165,59713,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+65,93446,50439,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+67,43176,25378,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+54,102880,83785,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+25,60964,45715,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+37,76272,48372,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+57,147550,81392,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,95742,78769,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+64,56563,33614,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,60589,46866,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+49,119280,91692,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,51798,37893,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+33,91971,77880,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+68,88984,72550,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+54,35920,23213,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+52,47104,27970,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+39,38517,28563,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+49,92563,69652,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+59,99141,66903,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,117445,69087,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+20,124549,102178,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+70,116468,71181,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+48,78051,55935,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+32,155055,109195,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+33,129495,110559,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+34,116989,70076,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,151523,109131,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+50,158609,124508,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,120851,79016,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+51,122034,71369,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+22,66234,43632,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+51,59162,38797,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+48,133616,99470,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+29,41672,25678,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+48,63407,40273,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,123350,105867,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+22,140487,74192,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,40186,27348,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+45,120795,102565,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+31,57856,42867,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+39,54518,49012,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+44,123749,91868,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+38,105027,62644,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+63,64642,41591,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+69,47375,35298,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,82831,59491,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+51,89500,59483,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+66,61414,37412,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,25058,20292,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+63,145621,89626,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,83444,44684,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+30,89039,54030,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+32,155078,122383,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+65,148028,131859,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+53,39450,35167,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+68,62765,47657,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+68,45922,39384,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+22,118567,73023,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+61,77083,53395,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,106425,82985,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+23,52767,33138,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,38888,20917,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+49,97845,83200,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+31,130556,101021,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+46,63587,48535,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+70,120880,65919,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+40,51836,26049,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+26,52860,41806,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+38,63327,39340,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+20,61544,40476,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+48,91458,49127,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+24,68430,52780,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+45,26345,18048,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,82254,55435,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+67,77059,45646,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+65,69867,37358,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,32212,28662,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+25,140999,120608,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+25,156786,103239,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+67,62906,31726,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,82755,54373,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+58,49024,36766,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,80710,71780,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+46,52074,27925,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+34,132276,77927,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+68,139345,82585,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,157790,99388,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,34711,31068,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+39,159110,85785,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+51,139550,77522,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,151837,78592,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+27,77691,48532,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,38956,29232,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+57,114873,65699,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+25,31922,24768,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+31,134502,102416,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+60,61920,37379,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+65,36007,18635,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+45,93594,81960,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+21,137296,94029,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,130435,79213,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+49,26237,19574,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+22,90809,62361,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+25,159575,110660,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,58070,30980,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+47,54103,33076,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+53,27906,21987,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+56,124868,77821,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+25,70580,59673,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+41,84706,61977,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+37,136057,108449,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+50,31182,15840,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+23,131733,107957,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+48,55562,45235,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+47,105317,89470,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,64352,42938,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+51,31020,19286,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+41,142679,93123,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+20,28122,20105,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+23,143551,88529,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,158001,140175,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+63,71758,48104,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,122383,79028,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+59,80866,52474,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+33,50054,39874,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+60,120297,66371,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+68,39403,23927,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,76469,68208,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+46,69749,52951,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,150601,104749,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+52,110820,92139,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+61,149257,104207,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+36,75145,39184,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+40,38431,19510,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+53,142843,106419,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+50,44894,25357,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+25,68377,44640,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,42090,35923,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+46,105838,71415,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+36,68264,34453,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+36,120523,97030,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+32,25600,14605,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+38,67791,57092,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+35,88768,62062,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+37,109820,85638,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+66,91380,47497,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+57,60317,35224,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+50,41629,33381,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+57,32306,16981,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+45,53117,43725,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,41844,26048,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+24,159115,114323,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+30,118497,96610,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+22,57538,32814,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+22,144265,81226,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,86493,66051,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,46230,29468,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+38,81294,60137,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+65,126827,66677,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+31,52479,35911,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+69,135588,99812,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+26,56703,39653,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,111348,74304,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+24,99290,86138,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+62,159694,108566,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,88921,65316,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+37,89783,67945,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+52,124020,86714,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+57,128714,105249,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,60705,43385,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+25,99404,64599,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+30,79317,52120,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+57,151834,126736,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+28,99322,82377,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+61,139521,104749,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+61,155230,137648,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+21,65640,35132,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,59789,46646,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+57,108524,94174,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,71954,40068,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+24,122089,102054,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+60,123244,75840,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+57,127845,65982,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,143764,106822,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+70,138168,113142,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+61,133217,78143,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+43,91557,53861,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+68,52335,36236,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,147846,102524,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,141879,99904,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,124177,93304,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,113762,68115,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+60,130346,76233,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+22,99992,50104,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+37,35563,23165,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+45,156844,124447,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+56,94634,73496,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+57,66010,49922,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+53,115674,98190,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+38,145859,98848,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+40,34107,30475,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+47,103279,52355,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,42120,24714,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+58,60892,39538,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+33,147590,89138,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+36,71264,39141,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+63,141629,77514,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+53,95596,60869,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+63,99721,85321,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+51,54260,37683,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+59,97755,79213,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+50,34015,21246,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+57,146069,99496,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+70,159561,109979,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+48,137440,122868,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,113654,77430,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+30,90109,78213,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+31,130034,85601,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+37,114563,102595,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+32,153646,116589,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,111641,91368,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+37,114256,77140,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+27,150943,121657,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+46,50634,32424,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,125022,67861,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+51,38970,26632,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+42,128352,85452,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+44,122414,85048,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+64,43746,29987,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+63,92942,57642,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+48,86918,72465,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+26,140726,71211,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+32,31622,23047,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+44,55538,43096,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+27,46256,26196,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+40,65297,48623,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+66,115663,71649,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+24,108030,97103,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+51,51734,46506,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+27,107839,62254,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+22,87648,67938,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+40,127663,102452,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+64,53766,46145,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+40,62659,33273,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,110034,80866,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,116438,97112,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+48,35437,29343,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+49,99555,84944,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+27,146828,113429,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+68,128302,108350,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+67,118985,78252,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+52,105998,55971,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+46,89629,45307,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,149334,81974,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+69,129624,98131,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+44,109534,94310,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+38,31929,27639,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+27,139270,92956,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+40,114256,96625,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+48,65116,35907,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+70,27045,15176,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+70,96337,78458,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,114929,94995,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+57,49895,37456,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+39,42420,24432,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+31,62484,51560,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+52,143575,72513,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,32836,20531,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+22,145411,125504,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+70,125965,98113,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+69,156122,103163,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+45,122913,72616,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+50,44683,37886,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+37,159199,91246,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+67,119524,71245,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,41815,22093,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+69,127013,84103,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+36,101475,61529,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+61,28032,22417,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+62,129689,64919,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+70,72028,63798,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+38,25338,19935,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+59,58615,49452,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,84106,68703,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+50,46706,25830,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+53,31561,26694,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+36,110257,87953,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,127358,112837,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,80495,62655,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,153228,90553,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+35,74920,63923,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+58,122904,103739,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+44,29161,18417,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,97017,81373,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+39,40201,20993,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+37,156142,138027,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+63,59485,33692,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+36,141598,96185,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+62,38694,27560,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+30,45873,25139,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+69,143606,76863,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+58,145389,104026,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+27,116398,103662,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+56,70454,54932,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+59,125055,81755,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+30,159012,92971,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+52,131447,80911,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+58,28263,21527,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+54,97366,59019,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+26,62098,41070,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+39,60575,33441,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+24,92620,48624,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+30,40098,22768,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+60,58962,34321,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+24,88263,65204,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+35,26489,21228,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+29,126934,111965,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+38,99774,58915,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+70,145181,116194,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+31,95327,84612,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,146069,121892,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+27,42776,23182,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+42,146823,104890,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+29,61440,38721,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+32,54499,37294,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+44,108720,92932,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+48,114699,83120,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+25,103186,64058,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+30,37245,22609,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+57,119979,73501,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+56,142857,79123,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,44610,30174,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,142921,102669,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+23,34345,20051,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+48,62845,53215,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+25,61347,51741,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,133990,109026,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+37,74120,37609,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+70,58215,31185,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+29,94664,67015,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+27,66709,47342,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+61,71809,43679,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+43,119107,72052,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,144751,83572,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,137279,95516,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+69,102652,58296,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+51,60024,41189,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+43,126924,108041,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+61,54856,34428,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+66,109921,69469,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+51,35017,19594,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+62,147169,108442,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,125087,92199,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+43,50613,40081,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+36,81285,69157,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,108262,80890,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+70,90709,70039,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+23,129979,97427,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+68,31207,25222,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+48,60289,31579,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+26,89427,78091,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+37,44640,22785,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+45,40831,23629,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+44,82546,70835,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+58,49969,27613,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+41,50267,34306,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+52,127971,81106,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+43,69573,53060,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+44,47963,26425,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+68,60384,52233,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+58,78612,49777,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+44,50933,44304,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+46,151143,111062,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+60,111270,84807,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+30,77531,68327,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+52,93051,82906,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+44,89618,67477,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,102044,51281,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+64,61475,31378,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,97277,82991,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+24,43409,32682,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+37,54035,40195,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+31,55824,44162,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+67,68548,56999,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+27,108705,95487,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+32,129299,115077,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+49,77422,52799,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+50,150840,128714,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+66,158791,131236,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,143412,79134,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+44,94822,72648,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,150482,76292,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+61,115813,96113,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+43,38035,29529,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+20,93638,74456,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+48,54528,36354,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+34,147364,99783,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+35,112600,71803,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+54,69465,62155,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+57,156353,86771,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+23,137689,89657,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+31,105646,83039,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+57,140016,83837,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+34,87162,63484,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+20,55920,44589,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+32,117322,85306,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+20,37582,32606,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+25,39938,29039,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,80213,65642,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,116899,74836,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+21,99393,89294,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+32,132395,110108,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+55,153246,105443,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+30,100005,75752,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+21,110815,94848,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+63,112580,97432,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+30,77191,55326,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+33,78825,58264,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+24,72492,40135,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+51,113948,66902,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+65,95662,73372,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+38,152531,96103,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+59,136204,93925,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+33,79043,54021,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+54,157130,105475,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+63,71019,63075,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+23,62830,49573,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,133884,102501,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+44,62204,41873,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+21,137564,71930,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+42,130459,88293,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+43,104768,88708,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+56,152511,88068,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+64,115027,97488,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+58,58187,33619,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+68,29887,17320,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+51,34783,17396,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+39,90939,59746,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+26,148140,105512,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,60238,52971,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+34,58094,31277,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+49,68231,40852,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+55,133999,67663,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+23,105032,84192,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+22,134442,70666,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+69,102565,59517,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+23,147930,118619,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,124072,104281,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+70,125603,104494,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+48,45539,28346,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+44,37517,25420,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+36,54932,28751,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+64,129209,82369,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+47,71174,52995,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+45,74469,47258,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+20,46796,38458,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+63,38752,30314,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+50,75624,66803,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+27,76186,45291,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+23,99142,52551,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+57,155424,135260,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+22,99875,82104,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+65,115007,67179,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+54,115518,65307,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+48,85459,62541,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+58,122251,86060,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+64,143452,100405,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+37,83432,42516,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+36,64787,46708,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+44,140857,119366,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+42,71311,57250,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+48,36725,26749,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+43,49584,33523,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+31,124823,66598,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+60,79164,60588,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+50,92314,54725,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+44,34707,28684,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+40,150338,110655,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,126286,111129,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+58,66373,53911,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+50,74007,65644,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+70,27359,18643,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+63,101170,87170,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+21,66015,35981,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+31,131274,89015,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+21,149025,102571,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+70,40591,29775,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+43,86688,67635,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+29,61578,55035,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+42,92966,70182,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+49,91487,53512,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+67,46124,29509,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+26,87749,72590,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+57,118947,68146,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+33,80617,70271,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+48,148917,86932,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+32,156640,112970,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+36,109002,75555,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+21,152739,103136,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+60,86895,77929,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,33846,25460,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+67,86274,44035,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+56,62439,43420,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+31,121531,98891,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+61,141735,114818,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+60,95115,64785,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+34,78975,49566,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+35,50810,41550,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+47,38287,20481,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+50,134831,108608,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+53,98407,63097,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+42,159571,83865,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+33,80482,68935,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+46,128656,100658,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+51,80003,63207,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+41,36141,29486,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+41,87697,67218,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,94855,74334,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+54,63780,51008,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+56,131221,87179,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+38,81907,53747,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+43,94545,84196,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+42,106880,57419,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+20,149556,98210,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+53,73686,44762,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+42,133809,119329,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+40,56164,49899,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+48,129062,90399,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+23,75948,52793,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+54,126661,95302,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+58,91945,45994,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+29,121323,98489,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+35,46316,35762,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+45,41723,26733,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+30,110162,72425,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+38,48658,36164,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+31,117815,79397,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+41,97786,67667,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+39,131431,83279,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+56,57982,39767,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+51,84263,50666,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+69,29402,16616,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,63370,34466,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+58,107616,75551,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+45,123874,102707,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+60,140683,112452,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+31,28882,24357,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+20,122654,89974,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+25,87047,46852,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+65,35914,20808,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+25,91746,57161,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+60,110555,98817,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+25,153331,96418,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+42,122407,97701,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+24,53967,46058,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+21,135994,109590,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,62806,43618,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+36,139272,110262,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+49,153800,132970,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+37,64102,52293,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+60,141226,104022,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+41,139750,97203,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+43,155180,81608,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+47,50385,35835,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+52,152251,83452,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+24,142083,91796,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+66,52630,39918,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+57,66555,34050,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+31,148500,97951,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+27,114504,99783,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+51,106382,94974,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+59,106243,94802,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+44,157228,120612,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,30239,15702,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+54,110581,61353,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+65,136138,98243,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+27,125292,104041,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,92210,60494,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+67,103023,55988,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+39,117572,73944,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+34,114700,89790,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+70,39735,31354,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+33,55369,48347,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+69,76508,68331,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+43,117523,87417,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+51,30918,22917,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+69,78896,41231,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+42,38218,25610,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+27,106819,77579,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,122459,108995,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+57,71048,43122,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+35,55188,29862,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+36,44067,28010,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+69,58409,33820,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+48,135071,86262,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,46500,24649,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+23,140899,118519,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,79839,62681,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,130696,92757,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+39,125809,83943,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+29,67983,60193,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+44,118460,106061,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+63,97372,51585,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+20,146044,110749,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+28,75028,41232,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+20,92855,69458,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+58,49521,33353,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+42,83195,54076,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+61,135535,88170,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+31,45480,36924,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+68,45044,38531,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+45,82854,73250,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+62,35527,26312,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+25,55805,42314,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+41,90798,68092,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+39,126022,110638,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+29,150236,126862,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+47,36776,30220,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+53,70123,42591,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+47,38161,26819,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+33,87076,61935,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+59,47151,25804,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+40,72458,61655,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+60,133837,108916,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5
+49,158213,105108,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+56,134372,91954,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+56,108408,63610,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+43,123402,100907,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+54,50680,45143,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+25,158816,92698,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+51,62783,48725,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+33,131132,109226,Moderate-High,6-12 months,55,25,15,Balanced approach with a good mix of equity and fixed income.,25,30,10,10,3,2
+23,30696,16348,High,3-6 months,75,10,15,Aggressive equity exposure via SIPs; focus on growth with modest liquidity.,35,40,6,4,0,0
+40,159510,108458,Moderate,6-12 months,45,45,10,Balanced portfolio focusing on wealth preservation with moderate growth exposure.,20,25,15,15,10,5
+53,59939,49534,Low-Moderate,12 months,35,55,10,Focus on stability with a higher allocation in fixed income.,15,20,20,15,15,5
+60,76901,59034,Low,12 months,25,65,10,Emphasize capital preservation and steady income; lower equity exposure.,10,15,25,15,20,5

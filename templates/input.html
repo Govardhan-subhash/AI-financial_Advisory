@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Risk Prediction</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Enter Your Financial Details</h2>
+        <form action="/input" method="post">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required>
+
+            <label for="salary">Salary:</label>
+            <input type="number" id="salary" name="salary" required>
+
+            <label for="expenses">Expenses:</label>
+            <input type="number" id="expenses" name="expenses" required>
+
+            <button type="submit">Predict Risk</button>
+        </form>
+    </div>
+</body>
+</html>
