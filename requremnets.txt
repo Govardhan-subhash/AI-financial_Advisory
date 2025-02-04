@@ -48,8 +48,7 @@ pydantic_core==2.27.2
 Pygments==2.19.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-pytz==2025.1
-pywin32==308
+pytz==2023.3
 pyzmq==26.2.1
 requests==2.32.3
 scikit-learn==1.6.1
