@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Low-Risk Financial Advice</title>
+    <link rel="stylesheet" href="/static/low.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>📊 Personalized Low-Risk Financial Advice</h2>
+
+    <div class="section">
+        <p><strong>Age:</strong> {{ age }} years</p>
+        <p><strong>Salary:</strong> ₹{{ salary }}</p>
+        <p><strong>Monthly Expenses:</strong> ₹{{ expenses }}</p>
+        <p><strong>Risk Level Chosen:</strong> <span class="highlight">{{ risk }}</span></p>
+    </div>
+
+    <div class="section">
+        <h3>💰 Recommended Investment Portfolio</h3>
+        <div class="investment-box"><strong>Fixed Deposits (FDs):</strong> ₹{{ investments['Fixed Deposit'] }}</div>
+        <div class="investment-box"><strong>Government Bonds:</strong> ₹{{ investments['Debt Mutual Funds'] }}</div>
+        <div class="investment-box"><strong>Recurring Deposits (RDs):</strong> ₹{{ investments['Gold'] }}</div>
+    </div>
+
+    <div class="section">
+        <h3>📈 Projected Returns Over Time for investment of {{ investable_amount }} </h3>
+        <table class="returns-table">
+            <tr>
+                <th>Investment</th>
+                <th>1 Year</th>
+                <th>3 Years</th>
+                <th>5 Years</th>
+            </tr>
+            {% for investment, data in investments.items() %}
+            {% if investment in ["Fixed Deposit", "Debt Mutual Funds","Gold"] %}
+            <tr>
+                <td><strong>{{ investment }}</strong></td>
+                <td>{{ data['returns'] | float * 1 }}%</td>
+                <td>{{ data['returns'] | float * 3 }}%</td>
+                <td>{{ data['returns'] | float * 4 }}%</td>
+            </tr>
+            {% endif %}
+        {% endfor %}
+        
+        
+        </table>
+    </div>
+
+    <div class="section">
+        <h3>🚨 Emergency Fund Recommendation</h3>
+        <p>You should have an emergency fund covering <strong>12 months</strong> of expenses.</p>
+        <p>💵 Recommended Fund Amount: <strong>₹{{ emergency_fund }}</strong></p>
+    </div>
+
+    <a href="/input">🔙 Back to Home</a>
+</div>
+
+</body>
+</html>

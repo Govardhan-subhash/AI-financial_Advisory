@@ -1,53 +1,58 @@
 /* Base Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 20px;
     background-color: #f5f5f5;
     color: #2c3e50;
+    line-height: 1.6;
+
     
-        background-image: url('/static/input.jpeg'); /* Path to your image */
+        background-image: url('/static/all.jpeg'); /* Path to your image */
         background-size: cover; /* Ensures the image covers the whole screen */
         background-position: center; /* Centers the image */
         background-repeat: no-repeat; /* Prevents tiling */
         background-attachment: fixed; /* Keeps the background fixed while scrolling */
     
+    
 }
 
-/* Container for the content */
+/* Main Container */
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* Header Style */
+/* Header Styling */
 h2 {
     color: #2c3e50;
-    font-size: 24px;
-    margin-bottom: 20px;
+    font-size: 28px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: center;
 }
 
-/* Section Styles */
+/* Section Styling */
 .section {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
-/* Investment Box */
+/* Investment Box Styling */
 .investment-box {
-    background-color: #ecf0f1;
-    padding: 15px;
-    border-radius: 5px;
-    margin-bottom: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #d5f5e3;
+    padding: 18px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .investment-box:hover {
-    background-color: #bdc3c7;
+    background-color: #a9dfbf;
     transform: scale(1.02);
 }
 
@@ -61,18 +66,20 @@ h2 {
 .returns-table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 10px;
+    margin-top: 15px;
+    font-size: 16px;
 }
 
-.returns-table th, .returns-table td {
-    border: 1px solid #bdc3c7;
-    padding: 8px;
+.returns-table th,
+.returns-table td {
+    padding: 12px;
     text-align: center;
+    border: 1px solid #bdc3c7;
 }
 
 .returns-table th {
-    background-color: #34495e;
-    color: white;
+    background-color: #2ecc71;
+    color: #ffffff;
 }
 
 .returns-table td {
@@ -81,34 +88,44 @@ h2 {
 
 /* Emergency Fund Box */
 .emergency-fund {
-    background-color: #f2d7d5;
-    padding: 15px;
-    border-radius: 5px;
+    background-color: #f9ebae;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
     margin-top: 20px;
+}
+
+.emergency-fund strong {
+    font-size: 18px;
+    color: #16a085;
 }
 
 /* Link Styling */
 a {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 25px;
     color: #3498db;
     text-decoration: none;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
 }
 
 a:hover {
-    text-decoration: underline;
+    background-color: #3498db;
+    color: white;
 }
 
-/* Button Style */
+/* Button Styling */
 button {
     background-color: #3498db;
     color: white;
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 12px 20px;
+    font-size: 18px;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
@@ -119,38 +136,39 @@ button:hover {
 
 /* Select Dropdown */
 select {
-    padding: 10px;
+    padding: 12px;
     font-size: 16px;
     border-radius: 5px;
     border: 1px solid #bdc3c7;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 /* Form Layout */
 form {
-    margin-top: 20px;
+    margin-top: 25px;
 }
 
-/* Responsive Layout for Smaller Screens */
+/* Responsive Design for Mobile */
 @media screen and (max-width: 768px) {
     .container {
-        padding: 10px;
+        padding: 15px;
     }
 
     h2 {
-        font-size: 20px;
-    }
-
-    .section {
-        margin-bottom: 15px;
+        font-size: 24px;
     }
 
     .investment-box {
-        padding: 12px;
+        padding: 15px;
     }
 
     .returns-table th, .returns-table td {
         font-size: 14px;
+    }
+
+    button, a {
+        font-size: 16px;
+        padding: 10px 15px;
     }
 }

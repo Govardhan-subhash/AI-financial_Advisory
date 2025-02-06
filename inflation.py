@@ -24,7 +24,7 @@ def get_inflation_data():
         # Check if the API call was successful
         if response.status_code == 200:
             data = response.json()
-            logging.info(f"API Response: {data}")
+            #logging.info(f"API Response: {data}")
             
             # Initialize a dictionary to store inflation rates
             inflation_rates = {"Austria": 0.0,

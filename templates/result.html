@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Financial Advisory Result</title>
-    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="/static/result.css">
 </head>
 <body>
     <div class="container">
@@ -32,33 +32,40 @@
 
             <h3>🌍 Current Inflation Rates</h3>
             <ul>
-                <li><strong>🇦🇹 Austria:</strong> {{ inflation['Austria'] }}%</li>
+                <li><strong>🇦🇹 India:</strong> {{ inflation['Austria'] }}%</li>
                 <li><strong>🇩🇪 Germany:</strong> {{ inflation['Germany'] }}%</li>
-                <li><strong>🇲🇽 Mexico:</strong> {{ inflation['Belgium'] }}%</li>
+                <li><strong>🇲🇽 USA:</strong> {{ inflation['Belgium'] }}%</li>
             </ul>
         
             <h3>💰 Investment Recommendations (Adjusted for Inflation)</h3>
-            <h4> For Austria</h4>
+           <h2> Investing 20% of salary for 10 years leads to a total return of Amount Below </h2>
+
+
+            <h4> For India</h4>
             <ul>
-                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['SIP'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
-                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Fixed Deposit (FD)'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
-                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
-                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Gold Investment'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['India']['SIP'] }}(Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['India']['Fixed Deposit'] }}(Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['India']['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
+                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['India']['Gold Investment'] }}(Adjusted for Inflation: {{ inflation['Austria'] }}%)</li>
             </ul>
             <h4> For Germany</h4>
             <ul>
-                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['SIP'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
-                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Fixed Deposit (FD)'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
-                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
-                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Gold Investment'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['Germany']['SIP'] }}(Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Germany']['Fixed Deposit'] }}(Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Germany']['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
+                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Germany']['Gold Investment'] }}(Adjusted for Inflation: {{ inflation['Germany'] }}%)</li>
             </ul>
-            <h4> For Belgium</h4>
+            <h4> For USA</h4>
             <ul>
-                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['SIP'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
-                <li><strong>🏦 Fixed Deposit (FD):</strong> ₹{{ investments['Fixed Deposit (FD)'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
-                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['Mutual Funds'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
-                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['Gold Investment'] }} (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
-            </ul>
+                <li><strong>📈 SIP Investment:</strong> ₹{{ investments['USA']['SIP'] }}
+                    (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+                <li><strong>🏦 Fixed Deposit (FD):</strong>₹{{ investments['USA']['Fixed Deposit'] }}
+                    (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+                <li><strong>📉 Mutual Funds:</strong> ₹{{ investments['USA']['Mutual Funds'] }}
+                    (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>
+                <li><strong>🪙 Gold Investment:</strong> ₹{{ investments['USA']['Gold Investment'] }}
+                    (Adjusted for Inflation: {{ inflation['Belgium'] }}%)</li>          
+                  </ul>
         </div>
     </div>
 </body>

@@ -1,0 +1,187 @@
+/* Base Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #2c3e50;
+    line-height: 1.6;
+        background-image: url('/static/all.jpeg'); /* Path to your image */
+        background-size: cover; /* Ensures the image covers the whole screen */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents tiling */
+        background-attachment: fixed; /* Keeps the background fixed while scrolling */
+    
+    
+}
+
+/* Main Container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-out;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Header Styling */
+h2 {
+    color: #c0392b;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Section Styling */
+.section {
+    margin-bottom: 25px;
+}
+
+/* Investment Box Styling */
+.investment-box {
+    background-color: #e74c3c;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.investment-box:hover {
+    background-color: #c0392b;
+    transform: scale(1.02);
+}
+
+/* Highlight Text */
+.highlight {
+    color: #f39c12;
+    font-weight: bold;
+}
+
+/* Table for Projected Returns */
+.returns-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.returns-table th,
+.returns-table td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #bdc3c7;
+}
+
+.returns-table th {
+    background-color: #f39c12;
+    color: white;
+}
+
+.returns-table td {
+    background-color: #f9f9f9;
+}
+
+/* Emergency Fund Box */
+.emergency-fund {
+    background-color: #f39c12;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.emergency-fund strong {
+    font-size: 18px;
+    color: #16a085;
+}
+
+/* Link Styling */
+a {
+    display: inline-block;
+    margin-top: 30px;
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #2980b9;
+    color: white;
+}
+
+/* Button Styling */
+button {
+    background-color: #2980b9;
+    color: white;
+    padding: 12px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3498db;
+}
+
+/* Select Dropdown */
+select {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #bdc3c7;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+/* Form Layout */
+form {
+    margin-top: 25px;
+}
+
+/* Responsive Design for Mobile */
+@media screen and (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .investment-box {
+        padding: 15px;
+    }
+
+    .returns-table th, .returns-table td {
+        font-size: 14px;
+    }
+
+    button, a {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+}

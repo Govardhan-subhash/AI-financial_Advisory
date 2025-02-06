@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medium-Risk Financial Advice</title>
+    <link rel="stylesheet" href="/static/high.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>📊 Personalized Medium-Risk Financial Advice</h2>
+
+    <div class="section">
+        <p><strong>Risk Level Chosen:</strong> <span class="highlight">{{ risk }}</span></p>
+    </div>
+
+    <div class="section">
+        <h3>💰 Recommended Investment Portfolio</h3>
+        <div class="investment-box"><strong>Stocks & Equities:</strong> ₹{{ investments['Stocks'] }}</div>
+        <div class="investment-box"><strong>Cryptocurrency:</strong> ₹{{ investments['Crypto'] }}</div>
+        <div class="investment-box"><strong>Real Estate:</strong> ₹{{ investments['REITs'] }}</div>
+        <div class="investment-box"><strong>Aggressive mutual funds:</strong> ₹{{ investments['Aggressive mutual funds'] }}</div>
+        <div class="investment-box"><strong>Gold:</strong> ₹{{ investments['Gold'] }}</div>
+    </div>
+    
+    <div class="section">
+        <h3>📈 Projected Returns Over Time for investment of {{ investable_amount }} </h3>
+        <table class="returns-table">
+            <tr>
+                <th>Investment</th>
+                <th>1 Year</th>
+                <th>3 Years</th>
+                <th>5 Years</th>
+            </tr>
+            {% for investment, data in investments.items() %}
+            {% if investment in ["Stocks", "Crypto", "Gold", "REITs", "Aggressive mutual funds"] %}
+            <tr>
+                <td><strong>{{ investment }}</strong></td>
+                <td>{{ data['returns'] | float * 1 }}%</td>
+                <td>{{ data['returns'] | float * 3 }}%</td>
+                <td>{{ data['returns'] | float * 4 }}%</td>
+            </tr>
+            {% endif %}
+        {% endfor %}
+        
+        </table>
+    </div>
+    
+    <div class="section">
+        <h3>🚨 Emergency Fund Recommendation</h3>
+        <p>You should have an emergency fund covering <strong>3 months</strong> of expenses.</p>
+        <p>💵 Recommended Fund Amount: <strong>₹{{ emergency_fund }}</strong></p>
+    </div>
+    
+
+    <a href="/input">🔙 Back to Home</a>
+</div>
+
+</body>
+</html>

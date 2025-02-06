@@ -1,0 +1,120 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif; /* Modern and clean font */
+}
+
+body {
+    background-image: url('/static/login.jpeg'); /* Path to your image */
+    background-size: cover; /* Ensures the image covers the whole screen */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Login Container */
+.container {
+    max-width: 400px;
+    width: 100%;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.15); /* Glass effect */
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: white;
+}
+
+/* Header */
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 20px;
+
+}
+
+/* Form Fields */
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: transparent;
+    border-radius: 5px;
+    font-size: 1em;
+    color: white;
+    outline: none;
+    transition: border 0.3s ease;
+}
+
+input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+input:focus {
+    border-color: #1abc9c;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* Button */
+button {
+    background: linear-gradient(to right, #1e90ff, #007bff);
+    color: rgb(150, 5, 5);
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    background: linear-gradient(to right, #007bff, #0056b3);
+}
+
+/* Links */
+a {
+    color: #38d116;
+    font-size: 1em;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #83d5df;
+    text-decoration: underline;
+}
+
+/* Paragraph */
+p {
+    font-size: 1.1em;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 1.8em;
+    }
+
+    input {
+        padding: 10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+}

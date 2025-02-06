@@ -1,0 +1,102 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fc;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+background: linear-gradient(to right, #004aad, #3b5998); 
+        background-image: url('/static/input1.jpeg'); /* Path to your image */
+        background-size: cover; /* Ensures the image covers the whole screen */
+        background-position: center; /* Centers the image */
+        background-repeat: no-repeat; /* Prevents tiling */
+        background-attachment: fixed; /* Keeps the background fixed while scrolling */
+    
+    
+}
+
+/* Form Container */
+.container {
+    background: linear-gradient(to right, #7b0a35, #3b5998); 
+    max-width: 450px;
+    width: 100%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Header */
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #13dc1d;
+    margin-bottom: 20px;
+}
+
+/* Label */
+label {
+    font-size: 1.1em;
+    color: #3cf55b;
+    margin-top: 10px;
+    display: block;
+}
+
+/* Form Fields */
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0 20px;
+    border: 2px solid #2980b9;
+    border-radius: 5px;
+    font-size: 1em;
+    outline: none;
+    transition: border 0.3s ease;
+}
+
+input:focus {
+    border-color: #1abc9c;
+}
+
+/* Button */
+button {
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #1abc9c;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 1.8em;
+    }
+
+    input {
+        padding: 10px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+}
