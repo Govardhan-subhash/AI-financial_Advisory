@@ -16,159 +16,122 @@ body {
     
     
 }
+/* General Page Styling */
 
 /* Main Container */
 .container {
-    max-width: 800px;
-    margin: 0 auto;
-    background-color: #ffffff;
-    padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 20px;
+    background: rgba(236, 244, 246, 0.896);
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
 }
 
-/* Header Styling */
+/* Headings */
 h2 {
-    color: #2c3e50;
-    font-size: 28px;
+    font-size: 2em;
+    color: #FFD700;
+    text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.6);
+}
+
+h3 {
+    color: #021414;
     margin-bottom: 15px;
-    font-weight: bold;
-    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 255, 255, 0.5);
 }
 
 /* Section Styling */
 .section {
-    margin-bottom: 25px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Investment Box Styling */
-.investment-box {
-    background-color: #d5f5e3;
-    padding: 18px;
-    border-radius: 8px;
-    margin-bottom: 15px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, transform 0.3s ease;
-}
-
-.investment-box:hover {
-    background-color: #a9dfbf;
-    transform: scale(1.02);
-}
-
-/* Highlight Text */
+/* Highlighted Text */
 .highlight {
-    color: #e74c3c;
+    color: #FF4500;
     font-weight: bold;
 }
 
-/* Table for Projected Returns */
-.returns-table {
+/* Investment Boxes */
+.investment-box {
+    padding: 12px;
+    margin: 10px 0;
+    background: rgba(224, 197, 44, 0.2);
+    border-left: 5px solid #FFD700;
+    border-radius: 8px;
+    font-size: 1.1em;
+}
+
+/* Table Styling */
+table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 15px;
-    font-size: 16px;
-}
-
-.returns-table th,
-.returns-table td {
-    padding: 12px;
-    text-align: center;
-    border: 1px solid #bdc3c7;
-}
-
-.returns-table th {
-    background-color: #2ecc71;
-    color: #ffffff;
-}
-
-.returns-table td {
-    background-color: #f9f9f9;
-}
-
-/* Emergency Fund Box */
-.emergency-fund {
-    background-color: #f9ebae;
-    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
     border-radius: 10px;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
-    margin-top: 20px;
+    overflow: hidden;
 }
 
-.emergency-fund strong {
-    font-size: 18px;
-    color: #16a085;
+th, td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* Link Styling */
+th {
+    background: #031818;
+    color: #fff;
+    font-weight: bold;
+}
+
+tr:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* Emergency Fund Section */
+.section p {
+    font-size: 1.1em;
+}
+
+/* Back to Home Button */
 a {
     display: inline-block;
-    margin-top: 25px;
-    color: #3498db;
+    padding: 12px 20px;
+    margin-top: 10px;
+    background: #FF4500;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
-    font-size: 18px;
-    padding: 8px 12px;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+    border-radius: 8px;
+    transition: 0.3s ease-in-out;
 }
 
 a:hover {
-    background-color: #3498db;
-    color: white;
+    background: #ff6347;
+    transform: scale(1.05);
 }
 
-/* Button Styling */
-button {
-    background-color: #3498db;
-    color: white;
-    padding: 12px 20px;
-    font-size: 18px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #2980b9;
-}
-
-/* Select Dropdown */
-select {
-    padding: 12px;
-    font-size: 16px;
-    border-radius: 5px;
-    border: 1px solid #bdc3c7;
-    width: 100%;
-    margin-bottom: 25px;
-}
-
-/* Form Layout */
-form {
-    margin-top: 25px;
-}
-
-/* Responsive Design for Mobile */
-@media screen and (max-width: 768px) {
-    .container {
-        padding: 15px;
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 1.5em;
     }
 
-    h2 {
-        font-size: 24px;
+    th, td {
+        font-size: 0.9em;
+        padding: 10px;
     }
 
     .investment-box {
-        padding: 15px;
+        font-size: 1em;
     }
 
-    .returns-table th, .returns-table td {
-        font-size: 14px;
-    }
-
-    button, a {
-        font-size: 16px;
-        padding: 10px 15px;
+    a {
+        padding: 10px 16px;
     }
 }

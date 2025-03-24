@@ -1,7 +1,6 @@
 import os
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session
 from flask_sqlalchemy import SQLAlchemy
-import pandas as pd
 import requests
 import numpy as np
 import openai
@@ -25,12 +24,11 @@ scaler = joblib.load("scaler.pkl")
 label_encoder = joblib.load("label_encoder.pkl")
 
 # Use .env variables
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DB_URL")  # Example: postgresql://user:password@host:port/database
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv("DB_URL")
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SECRET_KEY'] = os.getenv("SECRET_KEY")
 client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 INF_API_KEY = os.getenv("INF_API_KEY")
-
 db = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
 login_manager = LoginManager(app)
@@ -59,7 +57,10 @@ BASE_VALUES = {
     "sip": 12.0,  # Default percentage return for SIP
     "mutual_funds": 10.0,  # Default percentage return for Mutual Funds
     "reits": 8.0 , # Default percentage return for REITs
-    "aggressive_mutual_funds":14
+    "aggressive_mutual_funds":14,
+    
+    #"Fixed_Deposits": 7.0 # Default percentage return for Fixed Deposits
+    
 }
 
 # Function to fetch the investment value
@@ -75,7 +76,7 @@ def fetch_investment_value(investment_type):
             return market_data.get("stocks", BASE_VALUES["stocks"])
         elif investment_type == "Crypto":
             return market_data.get("crypto", BASE_VALUES["crypto"])
-        elif investment_type == "Fixed Deposit":
+        elif investment_type == "Fixed_Deposit":
             return market_data.get("interest_rate", BASE_VALUES["interest_rate"])
         elif investment_type == "SIP":
             return market_data.get("sip", BASE_VALUES["sip"])
@@ -103,6 +104,7 @@ def fetch_market_data():
         mutual_funds = requests.get(API_BASE + "mutualfunds", headers=HEADERS).json()  # Example for Mutual Funds
         reits = requests.get(API_BASE + "reitsreturns", headers=HEADERS).json()  # Example for REITs
         aggressive_mutual_funds=requests.get(API_BASE + "aggressivemutualfunds", headers=HEADERS).json()
+    
 
         # Validate and set fallback values if response is empty or invalid
         return {
@@ -114,6 +116,7 @@ def fetch_market_data():
             "mutual_funds": mutual_funds.get("percentage_return", BASE_VALUES["mutual_funds"]) if mutual_funds else BASE_VALUES["mutual_funds"],
             "reits": reits.get("percentage_return", BASE_VALUES["reits"]) if reits else BASE_VALUES["reits"],
             "aggressive_mutual_funds":aggressive_mutual_funds.get("percentage_return",BASE_VALUES["aggressive_mutual_funds"]) if aggressive_mutual_funds else BASE_VALUES["aggressive_mutual_funds"]
+            
         }
     except Exception as e:
         # If there's any exception, return base values
@@ -179,11 +182,17 @@ def input():
     if request.method == "POST":
         age = int(request.form["age"])
         salary = float(request.form["salary"])
-        expenses = float(request.form["expenses"])
+        Medical=float(request.form["Medical"])
+        Entertainment=float(request.form["Entertainment"])
+        Groceries=float(request.form["Groceries"])
+        Vacation=float(request.form["Vacation"])
+        Other=float(request.form["Other"])
+        
+        
 
         # Store session data
-        session.update({"age": age, "salary": salary, "expenses": expenses})
-
+        session.update({"age": age, "salary": salary,"Other":Other,"Vacation":Vacation,"Medical":Medical,"Groceries":Groceries,"Entertainment":Entertainment})
+        expenses=Medical+Groceries+Vacation+Entertainment+Other
         # Preprocess user input
         input_data = np.array([[age, salary, expenses]])
         input_scaled = scaler.transform(input_data)
@@ -197,7 +206,7 @@ def input():
 
         # Define investment types & base rates
         investment_data = {"SIP": 12, "Fixed Deposit": 7, "Mutual Funds": 15, "Gold Investment": 8}
-        countries = ["India", "USA", "Germany"]  # More relevant countries
+        countries = ["India", "Belgium", "Germany"]  # More relevant countries
 
         # Allocate salary using the 50/30/20 budgeting rule
         needs = salary * 0.50
@@ -208,7 +217,7 @@ def input():
         investments = get_investment_recommendations(investment_data, countries, investments_amount)
 
         return render_template(
-            "result.html",
+           "result.html",
             risk=risk_category,
             age=age,
             salary=salary,
@@ -236,7 +245,7 @@ def get_ai_investment_advice(age, salary, expenses, risk, inflation_rates):
     - 20% for Investments
 
     Suggest the following investment options based on the risk appetite:
-    - **Low Risk**: Fixed Deposits, Debt Mutual Funds, Gold.
+    - **Low Risk**: Fixed Deposit,Mutual Funds, Gold.
     - **Medium Risk**: SIPs, Balanced Mutual Funds, REITs,Gold.
     - **High Risk**: Stocks, Crypto, Gold ,REITs,Aggressive mutual funds.
     Set aside an emergency fund equal to 6 months of expenses.
@@ -247,14 +256,14 @@ def get_ai_investment_advice(age, salary, expenses, risk, inflation_rates):
         "emergency_fund": "₹{expenses * 6}",
         "investable_amount": "₹{salary * 0.20}",
         "investments": {{
-            "Fixed Deposit": "₹{fetch_investment_value('Fixed Deposit')}",
-            "SIP": "₹{fetch_investment_value('SIP')}",
-            "Mutual Funds": "₹{fetch_investment_value('Mutual Funds')}",
-            "Gold": "₹{fetch_investment_value('Gold')}",
-            "Stocks": "₹{fetch_investment_value('Stocks')}",
-            "Crypto": "₹{fetch_investment_value('Crypto')}",
-            "REITs": "₹{fetch_investment_value('REITs')}",
-            "Aggressive mutual funds": "₹{fetch_investment_value('Aggressive Mutual Funds')}"
+            "Fixed Deposit": "{fetch_investment_value('Fixed_Deposit')}",
+            "SIP": "{fetch_investment_value('SIP')}",
+            "Mutual Funds": "{fetch_investment_value('Mutual Funds')}",
+            "Gold": "{fetch_investment_value('Gold')}",
+            "Stocks": "{fetch_investment_value('Stocks')}",
+            "Crypto": "{fetch_investment_value('Crypto')}",
+            "REITs": "{fetch_investment_value('REITs')}",
+            "Aggressive mutual funds": "{fetch_investment_value('Aggressive Mutual Funds')}"
         }},
         "returns": {{
             "1_year": "12%",
@@ -303,30 +312,35 @@ def get_ai_investment_advice(age, salary, expenses, risk, inflation_rates):
     except Exception as e:
         print(f"Error: {e}")
         return None
-def calculate_investment_amount(investment_type, amount_invested, return_rate, years=1):
-    try:
-        # Ensure that amount_invested is treated as a float (in case it's passed as a string)
-        amount_invested = float(amount_invested.replace("₹", "").strip())
+def calculate_investment_amount(investable_amount, return_rate, years):
+    """
+    Calculate the investment return amount based on the given investable amount,
+    return rate (percentage), and duration in years.
+    """
+    if investable_amount is None:
+        return 0  # Avoid NoneType errors
 
-        
-        # If return_rate is a float, use it directly, and convert it to decimal
-        return_rate_decimal = return_rate / 100  # Convert to decimal (e.g., 9.0 -> 0.09)
+    investable_amount = float(investable_amount)  # Convert to float
+    return_rate = float(return_rate)  # Convert to float
 
-        # Calculate the final amount based on the return rate
-        # Formula: Amount = Initial Amount * (1 + return_rate_decimal) ^ years
-        final_amount = amount_invested * (1 + return_rate_decimal) ** years
-        return final_amount
-    except ValueError as e:
-        print(f"Error in calculation: {e}")
-        return amount_invested  # In case of an error, return the original amount
- # In case of an error, return the original amount
+    # Apply compound interest formula: A = P(1 + r/100)^t
+    final_amount = investable_amount * ((1 + return_rate / 100) ** years)
+
+    return round(final_amount, 2)  # Return rounded amount
+
 
 @app.route("/advise", methods=["GET", "POST"])
 def advise():
     # Get session data (age, salary, expenses)
     age = session.get("age")
     salary = session.get("salary")
-    expenses = session.get("expenses")
+    Vacation = float(session.get("Vacation"))
+    Entertainment = float(session.get("Entertainment"))
+    Groceries = float(session.get("Groceries"))
+    Medical = float(session.get("Medical"))
+    Other = float(session.get("Other"))
+    expenses= Medical + Entertainment+ Groceries + Vacation + Other
+    
 
     # Set default risk level to "Medium" if not provided
     risk = request.form.get("risk", "Medium")  # Default to 'Medium' if not provided
@@ -350,7 +364,7 @@ def advise():
         return "Error: Invalid response format received from AI. Expected a dictionary.", 500  # Server error
 
     # Extract emergency fund recommendation
-    emergency_fund = float(investment_data.get("emergency_fund").replace("₹", "").replace("%", "")) # Default to ₹0 if key doesn't exist
+    emergency_fund = float(investment_data.get("emergency_fund").replace("₹", "")) # Default to ₹0 if key doesn't exist
 
     # Convert emergency fund to float if it contains the ₹ symbol
     if isinstance(emergency_fund, str):
@@ -377,31 +391,56 @@ def advise():
 
     # Use the 50/30/20 rule for investments if AI data is not provided
     investments = savings if total_investments == 0 else total_investments
-    investable_amount=investment_data.get("investable_amount", {})
+    investable_amount=investment_data.get("investable_amount")
+    investable_amount=investable_amount.replace("₹", "")
     # Extract the investment breakdown based on the user's risk appetite
-    risk_key = risk.lower()  # "high", "medium", "low"
+
     investment_breakdown = investment_data.get("investments", {})
 
     # Calculate the number of investments (based on the current breakdown)
-    num_investments = len(investment_breakdown)
-    investment_per_category = investments / num_investments if num_investments else 0
 
-    # Process investment details
+    # # Process investment details
+    # investments_details = {}
+    # for investment, amount in investment_breakdown.items():
+    #     try:
+    #         # Fetch amount from response and remove ₹ symbol if present
+    #         return_r = float(amount.replace("₹", ""))
+    #         x=calculate_investment_amount(investable_amount,return_r, years=1)# Remove ₹ symbol
+    #         investments_details[investment] = {
+    #             "amount": f"{x}",
+    #             "returns": f"{return_r:,.2f}"  # Set returns as N/A or calculate if needed
+    #         }
+    #     except ValueError:
+    #         investments_details[investment] = {
+    #             "amount": "₹0.00",
+    #             "returns": "₹0.00"
+    #         }
+              # Process investment details
     investments_details = {}
     for investment, amount in investment_breakdown.items():
         try:
-            # Fetch amount from response and remove ₹ symbol if present
-            amount_invested = float(amount.replace("₹", ""))
-            x=calculate_investment_amount(investment, investable_amount, amount_invested, years=1)# Remove ₹ symbol
+        # Fetch amount and remove ₹ symbol
+            return_r = float(amount)  
+
+        # Calculate returns for 1, 3, and 5 years
+            return_1_year = calculate_investment_amount(float(investable_amount), return_r, 1)
+            return_3_years = calculate_investment_amount(float(investable_amount), return_r, 3)
+            return_5_years = calculate_investment_amount(float(investable_amount), return_r, 5)
+
             investments_details[investment] = {
-                "amount": f"{x}",
-                "returns": f"{amount_invested:,.2f}"  # Set returns as N/A or calculate if needed
-            }
+                "amount": f"₹{float(investable_amount):,.2f}",
+                 "returns_1_year": f"₹{return_1_year:,.2f}",
+                 "returns_3_years": f"₹{return_3_years:,.2f}",
+                 "returns_5_years": f"₹{return_5_years:,.2f}"
+         }
         except ValueError:
             investments_details[investment] = {
-                "amount": "₹0.00",
-                "returns": "₹0.00"
-            }
+            "amount": "₹0.00",
+            "returns_1_year": "₹0.00",
+            "returns_3_years": "₹0.00",
+            "returns_5_years": "₹0.00"
+        }
+
 
     # Add Needs, Wants, and Investments breakdown
     investments_details["Needs"] = {"amount": f"₹{needs:,.2f}", "returns": "0.00%"}
@@ -416,8 +455,8 @@ def advise():
     })
 
     # Debugging Output
-    print("Processed Investment Data:", investments_details)
-    print("Projected Returns Extracted:", returns_projection)
+   # print("Processed Investment Data:", investments_details)
+   # print("Projected Returns Extracted:", returns_projection)
 
     # Template mapping based on risk level
     template_map = {

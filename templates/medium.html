@@ -12,38 +12,42 @@
     <h2>📊 Personalized Medium-Risk Financial Advice</h2>
 
     <div class="section">
+        <p><strong>Age:</strong> {{ age }} years</p>
+        <p><strong>Salary:</strong> ₹{{ salary }}</p>
+        <p><strong>Monthly Expenses:</strong> ₹{{ expenses }}</p>
         <p><strong>Risk Level Chosen:</strong> <span class="highlight">{{ risk }}</span></p>
     </div>
 
     <div class="section">
             <h3>💰 Recommended Investment Portfolio</h3>
-            <div class="investment-box"><strong>SIPs:</strong> ₹{{ investments['SIP'] }} </div>
-            <div class="investment-box"><strong>Balanced Mutual Funds:</strong> ₹{{ investments['Balanced Mutual Funds'] }} </div>
-            <div class="investment-box"><strong>REITs:</strong> ₹{{ investments['REITs'] }}</div>
-            <div class="investment-box"><strong>Recurring Deposits (RDs):</strong> ₹{{ investments['Gold'] }}</div>
+            <div class="investment-box"><strong>SIPs:</strong> {{ investments['SIP']['returns_1_year'] }} </div>
+            <div class="investment-box"><strong>Balanced Mutual Funds:</strong> {{ investments['Mutual Funds']['returns_1_year'] }} </div>
+            <div class="investment-box"><strong>REITs:</strong> {{ investments['REITs'] ['returns_1_year']}}</div>
+            <div class="investment-box"><strong>Recurring Deposits (RDs):</strong> {{ investments['Gold']['returns_1_year'] }}</div>
     </div>
     <div class="section">
         <h3>📈 Projected Returns Over Time for investment of {{ investable_amount }} </h3>
-        <table class="returns-table">
+        <table>
             <tr>
-                <th>Investment</th>
-                <th>1 Year</th>
-                <th>3 Years</th>
-                <th>5 Years</th>
+                <th>Investment Type</th>
+                <th>Invested Amount</th>
+                <th>Return (1 Year)</th>
+                <th>Return (3 Years)</th>
+                <th>Return (5 Years)</th>
             </tr>
-            {% for investment, data in investments.items() %}
+            {% for investment, details in investments.items() %}
             {% if investment in ["SIP", "Balanced Mutual Funds","REITs","Gold"] %}
             <tr>
-                <td><strong>{{ investment }}</strong></td>
-                <td>{{ data['returns'] | float * 1 }}%</td>
-                <td>{{ data['returns'] | float * 3 }}%</td>
-                <td>{{ data['returns'] | float * 4 }}%</td>
+                <td>{{ investment }}</td>
+                <td>{{ details['amount'] }}</td>
+                <td>{{ details['returns_1_year'] }}</td>
+                <td>{{ details['returns_3_years'] }}</td>
+                <td>{{ details['returns_5_years'] }}</td>
             </tr>
             {% endif %}
-        {% endfor %}
-        
-        
+            {% endfor %}
         </table>
+        
     </div>
 
 
@@ -51,7 +55,7 @@
     <div class="section">
         <h3>🚨 Emergency Fund Recommendation</h3>
         <p>You should have an emergency fund covering <strong>6 months</strong> of expenses.</p>
-        <p>💵 Recommended Fund Percentage of Savings: <strong>₹{{ emergency_fund }}%</strong></p>
+        <p>💵 Recommended Fund Percentage of Savings: <strong>₹{{ emergency_fund }}</strong></p>
     </div>
     
     <a href="/input">🔙 Back to Home</a>

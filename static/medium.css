@@ -14,159 +14,106 @@ body {
 
     
 }
-
-/* Main Container */
+/* Global Styles */
+/* Container */
 .container {
+    width: 90%;
     max-width: 800px;
-    margin: 0 auto;
-    background-color: #ffffff;
-    padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(240, 232, 232, 0.15);
+    animation: fadeIn 0.6s ease-in-out;
 }
 
-/* Header Styling */
+/* Heading */
 h2 {
-    color: #2c3e50;
-    font-size: 28px;
-    margin-bottom: 15px;
-    font-weight: bold;
     text-align: center;
+    font-size: 28px;
+    color: #220202;
+    margin-bottom: 20px;
 }
 
-/* Section Styling */
+/* Sections */
 .section {
-    margin-bottom: 25px;
-}
-
-/* Investment Box Styling */
-.investment-box {
-    background-color: #f9e79f;
-    padding: 18px;
-    border-radius: 8px;
-    margin-bottom: 15px;
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease, transform 0.3s ease;
-}
-
-.investment-box:hover {
-    background-color: #f7dc6f;
-    transform: scale(1.02);
 }
 
 /* Highlight Text */
 .highlight {
-    color: #e74c3c;
     font-weight: bold;
+    color: #28a745;
 }
 
-/* Table for Projected Returns */
-.returns-table {
+/* Investment Box */
+.investment-box {
+    background: #e3f2fd;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+    font-weight: 500;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.investment-box:hover {
+    transform: scale(1.05);
+    background: #d1ecf1;
+}
+
+/* Table */
+table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 15px;
-    font-size: 16px;
 }
 
-.returns-table th,
-.returns-table td {
-    padding: 12px;
+th, td {
+    border: 1px solid #02111f;
+    padding: 10px;
     text-align: center;
-    border: 1px solid #bdc3c7;
 }
 
-.returns-table th {
-    background-color: #f1c40f;
-    color: #ffffff;
+th {
+    background: #02182f;
+    color: white;
 }
 
-.returns-table td {
-    background-color: #f9f9f9;
+/* Emergency Fund Section */
+.section p {
+    font-size: 16px;
+    line-height: 1.6;
 }
 
-/* Emergency Fund Box */
-.emergency-fund {
-    background-color: #f9ebae;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1);
-    margin-top: 20px;
-}
-
-.emergency-fund strong {
-    font-size: 18px;
-    color: #16a085;
-}
-
-/* Link Styling */
+/* Back Button */
 a {
-    display: inline-block;
-    margin-top: 25px;
-    color: #3498db;
+    display: block;
+    text-align: center;
+    background: #f0f3f6;
+    color: white;
     text-decoration: none;
+    padding: 12px;
     font-weight: bold;
-    font-size: 18px;
-    padding: 8px 12px;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
 }
 
 a:hover {
-    background-color: #3498db;
-    color: white;
+    background: #770711;
 }
 
-/* Button Styling */
-button {
-    background-color: #3498db;
-    color: white;
-    padding: 12px 20px;
-    font-size: 18px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-button:hover {
-    background-color: #2980b9;
-}
-
-/* Select Dropdown */
-select {
-    padding: 12px;
-    font-size: 16px;
-    border-radius: 5px;
-    border: 1px solid #bdc3c7;
-    width: 100%;
-    margin-bottom: 25px;
-}
-
-/* Form Layout */
-form {
-    margin-top: 25px;
-}
-
-/* Responsive Design for Mobile */
-@media screen and (max-width: 768px) {
-    .container {
-        padding: 15px;
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
     }
-
-    h2 {
-        font-size: 24px;
-    }
-
-    .investment-box {
-        padding: 15px;
-    }
-
-    .returns-table th, .returns-table td {
-        font-size: 14px;
-    }
-
-    button, a {
-        font-size: 16px;
-        padding: 10px 15px;
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
